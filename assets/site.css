@@ -197,3 +197,8 @@ em{font-style:italic}
 .brand-txt{font-family:var(--serif);font-weight:600;letter-spacing:.2px}
 .brand-txt span{color:var(--moss)}
 .brand-mark{border-radius:50%}
+
+/* ---- guide hero photo + byline ---- */
+.byline{font-size:14px;color:var(--ink-faint);margin:14px 0 0}
+.page-fig{margin:28px 0 0}
+.page-fig img{width:100%;max-width:640px;max-height:440px;object-fit:cover;border-radius:14px;border:1px solid var(--line-2)}
