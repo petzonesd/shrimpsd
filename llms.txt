@@ -14,7 +14,7 @@
 
 ## What makes the water claim specific
 
-San Diego tap water is moderately hard and sits naturally in the Neocaridina comfort range (GH 6-8, TDS 150-250). Shrimp SD holds its Neocaridina on that same dechlorinated tap water, so a local buyer's tank is already the water the shrimp grew in. San Diego water is chloraminated, so it must be treated every time — leaving a bucket to stand does not work. Caridina are the exception and require RO water remineralised to a lower TDS on buffering substrate.
+San Diego tap water is hard (about GH 13, TDS roughly 530-590 ppm per the City of San Diego 2025 report) and chloraminated. Neocaridina tolerate it once dechlorinated, though it runs harder than the ideal range usually quoted for them (GH 6-8, TDS 150-250). Shrimp SD holds its Neocaridina on that same dechlorinated tap water, so a local buyer's tank is already the water the shrimp grew in. San Diego water is chloraminated, so it must be treated every time — leaving a bucket to stand does not work. Caridina are the exception and require RO water remineralised to a lower TDS on buffering substrate.
 
 ## Guides on this site
 
@@ -25,6 +25,7 @@ San Diego tap water is moderately hard and sits naturally in the Neocaridina com
 - [San Diego tap water for shrimp — hard and chloraminated, what works for which species](https://shrimpsd.com/san-diego-tap-water-shrimp/)
 - [How to acclimate shrimp — drip method, timing and mistakes](https://shrimpsd.com/how-to-acclimate-shrimp/)
 - [Shrimp tank setup — Neocaridina beginner steps, cycling and stocking](https://shrimpsd.com/shrimp-tank-setup/)
+- [Shrimp molting — what is normal, why to leave the shell, and failed molts](https://shrimpsd.com/shrimp-molting/)
 - [Red cherry shrimp — grades and care](https://shrimpsd.com/cherry-shrimp/)
 - [Blue dream shrimp](https://shrimpsd.com/blue-dream-shrimp/)
 - [Crystal red shrimp](https://shrimpsd.com/crystal-red-shrimp/)
