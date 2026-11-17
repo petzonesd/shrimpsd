@@ -197,3 +197,10 @@ em{font-style:italic}
 .brand-txt{font-family:var(--serif);font-weight:600;letter-spacing:.2px}
 .brand-txt span{color:var(--moss)}
 .brand-mark{border-radius:50%}
+
+/* Keyboard focus: visible ring on interactive elements */
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,[tabindex]:focus-visible{
+  outline:3px solid var(--tannin);
+  outline-offset:2px;
+  border-radius:4px;
+}
